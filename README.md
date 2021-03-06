@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 <h1 align="center">
     dev.finance$
 </h1>
+=======
+# maratona_discover
+Projeto desenvolvido através do evento Maratona Discover, promovido pela Rocketseat, sob a condução do professor Mayk Brito. 
+Aplicação financeira que utiliza JavaScript, CSS, HTML.
+>>>>>>> a064c2c742452c59410f3054e44be593cf37b42a
 
 <div align=center>
 
