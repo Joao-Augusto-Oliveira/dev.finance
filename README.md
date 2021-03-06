@@ -1,6 +1,6 @@
 <div align=center>
 
-![PRINTS](./assets/logo.svg)
+![PRINTS](./layout/logo.svg)
 <br>
 <br>
 
